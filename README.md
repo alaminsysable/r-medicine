@@ -18,6 +18,11 @@ Installation
 
 •	Ready to go
 
+•	cd flutter
+•	git checkout 2.16.0  ( 776efd2034 )
+•	flutter --version // Flutter 2.10.0
+
+
 
 ## Getting Started
 
